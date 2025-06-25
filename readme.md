@@ -49,7 +49,7 @@ https://your.hugging.hf.space/<br><br>
    ```
 3. Visit the proxy at:
    ```text
-   http://localhost:7860  
+   http://localhost:50030  
 4. Channels playlist is accessible via: **http://localhost:50030/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
    Events playlist is accessible via: **http://localhost:50030/playlist/events**. (Refresh playlist from your iptv player to update)
 5. Enjoy!

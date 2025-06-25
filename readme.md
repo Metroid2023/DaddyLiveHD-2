@@ -36,7 +36,24 @@ Here is the daddy events list (you probably dont need this as it does not update
 https://pigdadevents-tfms-xyz.netlify.app/<br><br>
 If you already have a huggingface account pointing to pigzillaaaa daddylive streams then you already have the proxy<br>
 https://your.hugging.hf.space/<br><br>
-===========================================================================<br><br>
+===========================================================================<br><be>
+## docker-compose
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Metroid2023/DaddyLiveHD-2
+   cd DaddyLiveHD-2
+   ```
+2. Launch the service:
+   ```bash
+   docker-compose up -d --build
+   ```
+3. Visit the proxy at:
+   ```text
+   http://localhost:7860  
+4. Channels playlist is accessible via: **http://localhost:50030/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
+   Events playlist is accessible via: **http://localhost:50030/playlist/events**. (Refresh playlist from your iptv player to update)
+5. Enjoy!
+
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
 
 1, Clone the repo:<br>

@@ -40,9 +40,9 @@ https://your.hugging.hf.space/<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
 
 1, Clone the repo:<br>
-git clone https://github.com/Metroid2023/DaddyLiveHD-2.xyz<br>
+git clone https://github.com/Metroid2023/DaddyLiveHD-2<br>
 
-2, SSH into the daddy folder (which is called DaddyLiveHD-2.xyz):<br>
+2, SSH into the daddy folder (which is called DaddyLiveHD-2):<br>
 cd tfms.xyz<br>
 
 3, Launch the service:<br>

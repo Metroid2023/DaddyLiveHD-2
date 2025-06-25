@@ -49,9 +49,9 @@ https://your.hugging.hf.space/<br><br>
    ```
 3. Visit the proxy at:
    ```text
-   http://localhost:50030  
-4. Channels playlist is accessible via: **http://localhost:50030/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
-   Events playlist is accessible via: **http://localhost:50030/playlist/events**. (Refresh playlist from your iptv player to update)
+   http://localhost:50060  
+4. Channels playlist is accessible via: **http://localhost:50060/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
+   Events playlist is accessible via: **http://localhost:50060/playlist/events**. (Refresh playlist from your iptv player to update)
 5. Enjoy!
 
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>

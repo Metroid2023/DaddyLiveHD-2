@@ -50,8 +50,8 @@ https://your.hugging.hf.space/<br><br>
 3. Visit the proxy at:
    ```text
    http://localhost:50060  
-4. Channels playlist is accessible via: **http://localhost:50060/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
-   Events playlist is accessible via: **http://localhost:50060/playlist/events**. (Refresh playlist from your iptv player to update)
+4. Channels playlist is accessible via: **http://localhost:7861/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
+   Events playlist is accessible via: **http://localhost:7861/playlist/events**. (Refresh playlist from your iptv player to update)
 5. Enjoy!
 
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
@@ -66,8 +66,8 @@ cd tfms.xyz<br>
 docker-compose up -d --build<br>
 
 Visit the proxy at<br>
-http://localhost:50060<br>
-http://localhost:50060/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
+http://localhost:7861<br>
+http://localhost:7861/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
 You can also use the urls from the quick setup guide above<br><br>
 If You Need To Install Docker On Ubuntu:<br>
 snap install docker<br><br>

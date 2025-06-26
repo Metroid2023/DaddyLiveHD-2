@@ -3,5 +3,5 @@ services:
     build: .
     container_name: dproxy-2
     ports:
-      - "50060:50060"
+      - "7861:7861"
     restart: unless-stopped
